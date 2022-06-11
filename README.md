@@ -6,3 +6,5 @@ Transformers for Segmentation
 2- https://towardsdatascience.com/implementing-segformer-in-pytorch-8f4705e2ed0e
 
 3- https://github.com/FrancescoSaverioZuppichini/SegFormer
+
+4- https://github.com/apple/ml-cvnets
