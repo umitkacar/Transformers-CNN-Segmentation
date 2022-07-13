@@ -2,6 +2,8 @@
 # Transformers
 1- https://towardsdatascience.com/illustrated-self-attention-2d627e33b20a
 
+2- https://jalammar.github.io/illustrated-transformer/
+
 
 # Transformers-Segmentation
 Transformers for Segmentation
