@@ -6,6 +6,15 @@
 
 3- https://github.com/lucidrains/vit-pytorch
 
+# MM-Detection-Segmentation
+
+1- https://colab.research.google.com/github/open-mmlab/mmsegmentation/blob/master/demo/MMSegmentation_Tutorial.ipynb
+
+2- https://github.com/open-mmlab/mmdetection/blob/master/demo/MMDet_Tutorial.ipynb
+
+3- https://mmsegmentation.readthedocs.io/en/latest/dataset_prepare.html
+
+4- https://colab.research.google.com/github/open-mmlab/mmsegmentation/blob/master/demo/MMSegmentation_Tutorial.ipynb#scrollTo=HchvmGYB_rrO
 
 # Transformers-Segmentation
 Transformers for Segmentation
