@@ -28,3 +28,7 @@ Transformers for Segmentation
 4- https://github.com/apple/ml-cvnets
 
 5- EfficientFormer: Vision Transformers at MobileNet Speed : https://arxiv.org/pdf/2206.01191.pdf
+
+# Awesome
+
+- https://github.com/SegmentationBLWX/sssegmentation
